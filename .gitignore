@@ -215,4 +215,6 @@ marimo/_lsp/
 __marimo__/
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
+test_ui.py
+old_app.py
