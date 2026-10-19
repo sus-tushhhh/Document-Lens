@@ -2,6 +2,11 @@
 
 **Document Lens** is an AI-powered document assistant that allows users to upload documents and interact with their content using natural language. Built with Python, Streamlit, LangChain, Gemini API and Retrieval-Augmented Generation (RAG), it retrieves relevant information from uploaded files to answer questions, summarize content, and analyze documents.
 
+## 🌐 Live Demo
+
+🚀 **Try SQL-Wizard:**
+https://document-lens-sus-tushhhh.streamlit.app/
+
 ## ✨ Features
 
 - 📁 **Multi-format Support** — Upload PDF, DOCX, and TXT files.
