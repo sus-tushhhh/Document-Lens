@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-- 🚀 **Try Document-Lens:** - https://document-lens-sus-tushhhh.streamlit.app/
+- 🚀 **Try Document-Lens:** — https://document-lens-sus-tushhhh.streamlit.app/
 
 ## ✨ Features
 
