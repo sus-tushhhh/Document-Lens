@@ -4,8 +4,7 @@
 
 ## 🌐 Live Demo
 
-🚀 **Try SQL-Wizard:**
-https://document-lens-sus-tushhhh.streamlit.app/
+- 🚀 **Try Document-Lens:** - https://document-lens-sus-tushhhh.streamlit.app/
 
 ## ✨ Features
 
